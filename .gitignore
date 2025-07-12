@@ -1,1 +1,6 @@
-dist/*
+.vespa-venv/
+__pycache__/
+*.log
+*.pem
+*.key
+security/clients.pem
